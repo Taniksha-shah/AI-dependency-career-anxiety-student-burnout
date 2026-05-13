@@ -81,7 +81,7 @@ df = pd.read_csv('./ai_dependency_career_anxiety_students.csv')
 
 ### 5. Run the notebook
 ```bash
-jupyter notebook notebook.ipynb
+jupyter notebook notebooka231f52ebd.ipynb
 ```
 
 > **Note:** The notebook was originally built on Kaggle where the dataset is pre-mounted at `/kaggle/input/`. If running locally, update the path as shown above.
